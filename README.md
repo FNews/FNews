@@ -15,7 +15,7 @@ FNews is an open source project wich aims to show the divergence of information 
 First of all, afer some researches we conclude the best way for develop this project is Python Scripting. Python is one of the most populars languages in the world and has a lot of very useful open source libraries. If need ataptation this libraries can be recoded from scratch. <introduction> <project graph> <general description>
  
  ## II. Scraping
-<scraping description> <what we have to scrap> <how to scrap>
+"<scraping description> <what we have to scrap> <how to scrap>"
   
 ## III. Sort scraped data into database
 <sort data and database description> <sort algorithm> <database architecture>
