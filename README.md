@@ -10,3 +10,15 @@ FNews is an open source project wich aims to show the divergence of information 
 #### IV. RNN for news variances
 #### V. Deep Learining for medias rating
 #### VI. Others
+
+# I.General
+
+# II. Scraping
+
+# III. Sort scraped data into database
+
+# IV. RNN for news variances
+
+# V. Deep Learning for medias rating
+
+# VI. Others
